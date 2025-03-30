@@ -12,7 +12,7 @@ jedi = "*"
 pygame = "*"
 
 [requires]
-python_version = "3.8"
+python_version = "3.11"
 
 [scripts]
-sonic = "python3 -m sonic"
+sonic = "python -m sonic"
